@@ -1,0 +1,34 @@
+# Ray's Stairs payroll list for the interactive safety modules
+# One name per line. Lines starting with # are ignored.
+# Add a new hire on his first day. Delete anyone who leaves.
+# Names must match payroll exactly - this is what appears in the module.
+
+Adan A. Campos Franco
+Adrian Enrique Torres
+Alexander Pelaez
+Alicia M. Pina
+Andy J Arias Bautista
+Ashley Martinez
+Asia N. Pressley
+Brayan Atanasio
+Bryan De La Paz Cruz
+Carmelo Colotl Hernandez
+David Granados Pina
+Eduardo A. Solis Santana
+Fernando Contreras Gallardo
+Ferrisho R. Blackwell Jr
+Giovanni Jaime
+Gorje L. Varela
+Jacinto Argote
+Johnael Maldonado Castro
+Jonathan Galarza
+Jonathan Vela Coyotl
+Juan A. Fonseca
+Juan David Solis Santana
+Lixander Cerrera Martinez
+Osvaldo Melon Barreto
+Rafael Carrillo Diaz
+Ramiro Otero Martinez
+Santiago Hernandez
+Sergio A. Gutierrez Varela
+Zachary A. Murphy
