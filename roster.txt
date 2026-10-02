@@ -3,33 +3,54 @@
 # Add a new hire on his first day. Delete anyone who leaves.
 # Names must match payroll exactly - this is what appears in the module.
 
-Adan A. Campos Franco
-Adrian Enrique Torres
+Adrian E. Torres
+Alberto E Toxtle
 Alexander Pelaez
-Alicia M. Pina
-Andy J Arias Bautista
+Andy J. Arias Bautista
+Angel David Alva Perez
+Arlin Elias Sanchez Aguilar
+Arturo R. Castro
 Ashley Martinez
 Asia N. Pressley
-Brayan Atanasio
-Bryan De La Paz Cruz
+Carlos Alberto Fugon Diaz
 Carmelo Colotl Hernandez
+Cesar David Erazo Arteaga 
+Christopher A. Garcia Mendez
+Cristian Gallardo Ortiz
+Cristian Gallardo Ortiz
+Cristian M Perez Montejo
 David Granados Pina
+Edgar Otoniel Chacaj Pastor
 Eduardo A. Solis Santana
 Fernando Contreras Gallardo
 Ferrisho R. Blackwell Jr
 Giovanni Jaime
-Gorje L. Varela
-Jacinto Argote
-Johnael Maldonado Castro
+Gorje L Varela
+Hugo Toxtle Uvera
+Jehovani Toxtle
+Johanna L. Toxtle
+Johnael Maldonado
 Jonathan Galarza
 Jonathan Vela Coyotl
+Jorge D Perez Montejo 
+Jorge Z Corona
 Juan A. Fonseca
 Juan David Solis Santana
+Julio C Osorio Cruz
+Leonardo Anselmo Montalvan Flores
 Lixander Cerrera Martinez
+Maximiliano Gutierrez Varela
+Miguel A. Hernandez Nieves
+Mingo E Ramirez Gabriel
+Noemi O. Martinez Muzaleno
+Omar Becerril Varela
+Orvin D. Rivera Rivera
+Oscar Alejandro Hernandez
 Osvaldo Melon Barreto
 Rafael Carrillo Diaz
 Ramiro Otero Martinez
 Santiago Hernandez
 Sergio A. Gutierrez Varela
-Zachary A. Murphy
-Johanna Toxtle
+Uriel Varela
+Wilmer S Raudales
+Zachary Alexander Murphy
