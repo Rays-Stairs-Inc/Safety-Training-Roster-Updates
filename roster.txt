@@ -1,4 +1,4 @@
-# Ray's Stairs payroll list for the interactive safety modules
+  # Ray's Stairs payroll list for the interactive safety modules
 # One name per line. Lines starting with # are ignored.
 # Add a new hire on his first day. Delete anyone who leaves.
 # Names must match payroll exactly - this is what appears in the module.
